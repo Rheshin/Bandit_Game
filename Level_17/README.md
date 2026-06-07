@@ -1,0 +1,1 @@
+use diff oldfile newfile
